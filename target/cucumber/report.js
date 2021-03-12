@@ -95,7 +95,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 4634863000,
+  "duration": 2930444200,
   "status": "passed"
 });
 formatter.background({
@@ -114,7 +114,7 @@ formatter.match({
   "location": "StepDefinition.User_is_on_the_LoginPage()"
 });
 formatter.result({
-  "duration": 1667692000,
+  "duration": 1443451400,
   "status": "passed"
 });
 formatter.scenario({
@@ -193,35 +193,35 @@ formatter.match({
   "location": "StepDefinition.user_Enters_the_and(String,String)"
 });
 formatter.result({
-  "duration": 2818128000,
+  "duration": 2294006299,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_clicks_on_Login_button()"
 });
 formatter.result({
-  "duration": 4198989500,
+  "duration": 3296188401,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_should_be_able_to_see_the_Dashboard()"
 });
 formatter.result({
-  "duration": 968935700,
+  "duration": 543714200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_clicks_on_Bank_and_cash()"
 });
 formatter.result({
-  "duration": 4125834300,
+  "duration": 4055543100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_clicks_on_New_account()"
 });
 formatter.result({
-  "duration": 2882611100,
+  "duration": 2681472099,
   "status": "passed"
 });
 formatter.match({
@@ -258,18 +258,18 @@ formatter.match({
   "location": "StepDefinition.user_fill_up_the_form_Entering_and_and_and_and_and_and_and_clicks_on_submit(String,String,String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 11467502600,
+  "duration": 10615320199,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_should_be_able_to_see_Validate()"
 });
 formatter.result({
-  "duration": 9954400,
+  "duration": 5232900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1122120200,
+  "duration": 749769499,
   "status": "passed"
 });
 });
